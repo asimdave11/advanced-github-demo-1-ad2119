@@ -19,3 +19,5 @@ python -m pip install -r requirements.txt
 ```
 
 ## Usage
+
+python sklearn_train.py --output-dir results
